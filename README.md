@@ -1,5 +1,5 @@
 
-[![licence](https://img.shields.io/badge/Licence-GPLv3-red.svg)](https://github.com/SubhamTyagi/loco-answers/blob/master/LICENSE) ![version](https://img.shields.io/badge/Version-2.5.1-green.svg)[ ![HitCount](http://hits.dwyl.io/SubhamTyagi/loco-answers.svg)](http://hits.dwyl.io/SubhamTyagi/loco-answers)  ![GitHub All Releases](https://img.shields.io/github/downloads/SubhamTyagi/loco-answers/total.svg?style=social)
+[![licence](https://img.shields.io/badge/Licence-GPLv3-red.svg)](https://github.com/atul12354/loco-answers/blob/master/LICENSE) ![version](https://img.shields.io/badge/Version-2.5.1-green.svg)[ ![HitCount](http://hits.dwyl.io/SubhamTyagi/loco-answers.svg)](http://hits.dwyl.io/SubhamTyagi/loco-answers)  ![GitHub All Releases](https://img.shields.io/github/downloads/SubhamTyagi/loco-answers/total.svg?style=social)
 
 # Trivia hack  <a target="_blank" href="https://paypal.me/shubhamtyagi1" title="Donate using PayPal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" /></a>
 
@@ -37,7 +37,7 @@
 10. Swag IQ
 
 ## Contribution
-* [Shubham Tyagi](https://subhamtyagi.github.io/) 
+* [Atul Gouda](https://subhamtyagi.github.io/) 
 
 ## Trivia Hack Logo
 * Trivia hack logo is designed by [Deb Pedrano](https://github.com/debpedrano) |[blog](https://steemit.com/@debpedrano)
